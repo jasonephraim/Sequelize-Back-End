@@ -1,3 +1,3 @@
-import HelloResolver from '../hello'
+import HelloResolver from './hello'
 
 export default [HelloResolver]
